@@ -1,0 +1,12 @@
+{
+    "name": "aramonc/exo-frame",
+    "description": "A framework for creating long running processes such as workers in PHP.",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adrian Cardenas",
+            "email": "arcardenas@gmail.com"
+        }
+    ]
+}
